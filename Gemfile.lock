@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/blueplanet/blorgh.git
+  revision: 4a12aa2acec024769eeaf7a371beff6665169e4f
+  specs:
+    blorgh (0.1.0)
+      rails (~> 5.0.0, >= 5.0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -154,6 +161,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  blorgh!
   byebug
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
