@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/blueplanet/blorgh.git
-  revision: 3945a4d29002d3a424d9d5d58b10f6632904e922
+  revision: c4fb681dd1fed66051f43326abdbc491fac7f90c
   specs:
     blorgh (0.1.0)
       rails (~> 5.0.0, >= 5.0.0.1)
