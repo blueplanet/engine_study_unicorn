@@ -4,6 +4,6 @@ Blorgh::Article.class_eval do
   end
 
   def summary
-    "#{title} - #{truncate(text)}"
+    "#{title} - #{text}"
   end
 end
